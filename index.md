@@ -1,3 +1,5 @@
+![Sarah Lawton](images/profile.jpg)
+
 # Artist Statement 
 
 Sarah Lawton (1982) is a British artist, born in Lancashire. Since training at the National Institute of Design she made several research trips to India and despite now being based in London she continues to practice embodied drawing and egg tempera. By observing the way in which dynamics are built and conflicts sometimes emerge her artwork meditates on the indelibility of human nature.
