@@ -2,6 +2,10 @@
 ---
 @import "{{ site.theme }}";
 
+h1, h2, h3, 
+h1 a, h2 a, h3 a {
+    color: #ba714c;
+}
 
 h1 { 
     font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif; 
@@ -18,7 +22,7 @@ p {
     font-size: 14px; 
     font-weight: 400; 
     line-height: 23px; 
-    text-justify: inter-word;
+    text-align: justify;
 } 
 
 blockquote { 
