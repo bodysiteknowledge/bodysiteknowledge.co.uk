@@ -10,6 +10,9 @@ a,
 h1 a,
 h2 a,
 h3 a,
+h1 a:hover,
+h2 a:hover,
+h3 a:hover,
 a:active,
 a:visited,
 a:hover {
@@ -23,10 +26,16 @@ a:hover {
   font-style: normal;
 }
 
+@font-face {
+  font-family: Optima;
+  src: url("/assets/optima.woff") format("woff2");
+  font-style: normal;
+}
+
 h1,
 h2,
 h3 {
-  font-family: GillSans-Light, sans-serif;
+  font-family: Optima, sans-serif;
   font-weight: lighter;
 }
 
