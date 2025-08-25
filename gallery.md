@@ -1,41 +1,56 @@
 ---
 images:
-  - slug: "cosmic-consciousness"
-    title: "Cosmic Consciousness"
+  - slug: "women-in-conversation-1-spirit"
+    title: "Women in Conversation 1 - Spirit"
+
+  - slug: "women-in-conversation-II-sentient"
+    title: "Women in Conversation II Sentient"
+
+  - slug: "interdepence-I-on-being"
+    title: "Interdepence I - On Being"
+
   - slug: "interdepence II"
     title: "Interdepence II"
+
+  - slug: "its-a-process-interdepence-III"
+    title: "It‘s a Process Interdepence III"
+
+  - slug: "focus-a-sense-of-coherence"
+    title: "Focus a Sense of Coherence"
+
   - slug: "kinship-women-in-conversation-III"
-    title: "Kinship Women In Conversation III"
-  - slug: "salutogenic-orientation"
-    title: "Salutogenic Orientation"
-  - slug: "women-in-conversation-II-sentient"
-    title: "Women In Conversation II Sentient"
-  - slug: "dancers-and-development"
-    title: "Dancers And Development"
-  - slug: "interdepence-I-on-being"
-    title: "Interdepence I On Being"
+    title: "Kinship Women in Conversation III"
+
+  - slug: "mosses-and-waterbears"
+    title: "Mosses and Waterbears"
+
   - slug: "light-language-I"
     title: "Light Language I"
+
+  - slug: "salutogenic-orientation"
+    title: "Salutogenic Orientation"
+
+  - slug: "dancers-and-development"
+    title: "Dancers and Development"
+
   - slug: "there-to-be-close-to-her"
-    title: "There To Be Close To Her"
-  - slug: "focus-a-sense-of-coherence"
-    title: "Focus A Sense Of Coherence"
-  - slug: "its-a-process-interdepence-III"
-    title: "It‘s A Process Interdepence III"
-  - slug: "mosses-and-waterbears"
-    title: "Mosses And Waterbears"
-  - slug: "women-in-conversation-1-spirit"
-    title: "Women In Conversation 1 - Spirit"
+    title: "There to be close to her"
+
+  - slug: "cosmic-consciousness"
+    title: "Cosmic Consciousness"
+
+  - slug: "day"
+    title: "Day"
+
+  - slug: "night"
+    title: "Night"
 ---
 
 # Gallery
 
-![Women in Conversation 1 - Spirit](images/gallery/women-in-conversation-1-spirit.jpg)
-Women in Conversation 1 - Spirit
-
 {% for image in page.images %}
+![{{image.title}}](images/gallery/{{image.slug}}.jpg)
+{{ image.title }}
 
-  <h2>{{ image.title }}</h2>
-  ![{{image.title}}](images/gallery/{{image.slug}}.jpg)
-
+<hr>
 {% endfor %}
