@@ -9,6 +9,3 @@ Sarah’s work explores routes of integration between self-expression and human 
 Sarah’s work has been presented at China Academy of Art, Hangzhou, Somerset House, London and Darpana Academy of Art, Ahmedabad; as part of the Vikram Sarabhai International Arts Festival. Her work is held in public and private collections at V&A, Kensington and Chelsea Town Hall and Tate archives. Sarah’s current drawings and paintings explore salutogenic practices.
 
 [@bodysiteknowledge](https://www.instagram.com/bodysiteknowledge)
-
-[gallery]
-[also gallery](/gallery)
