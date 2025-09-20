@@ -32,6 +32,13 @@ a:hover {
   font-style: normal;
 }
 
+a[x-apple-data-detectors] {
+  color: inherit !important;
+  text-decoration: none !important;
+  pointer-events: none !important;
+  cursor: default !important;
+}
+
 h1,
 h2,
 h3 {
