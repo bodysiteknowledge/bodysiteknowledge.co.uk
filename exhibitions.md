@@ -17,7 +17,7 @@
 
 ## Collaborative and Participatory Shows
 
-- Listening Academy, A Listening Biennial project at Serendipity Arts Festival, Goa - - December 2023
+- Listening Academy, A Listening Biennial project at Serendipity Arts Festival, Goa - December 2023
 - Kensington and Chelsea Arts Week. ‘The life of the Note’ Select Gallery 2023
 - Queen Elizabeth II Jubilee Exhibition, Civic Gallery, Kensington and Chelsea Town Hall - 2022- 2023
 - Something Useful Project. India residency. Ten Year Anniversary. Salford University. Nov - 2022
