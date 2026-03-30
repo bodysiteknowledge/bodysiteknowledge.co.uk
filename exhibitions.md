@@ -2,7 +2,7 @@
 
 ## Solo Exhibition Publicly-Funded through Arts Council England, British Council & INTACH
 
-- On Co-Existence. Vikram Sarabhai International Festival, Darpana Academy of Arts Dec. 2019
+- On Co-Existence. Vikram Sarabhai International Festival, Darpana Academy of Arts Dec. 2018
 - ‘Drawing conversations:’ Graphic works on paper: Standpoint Gallery, London. October. 2017
 - How dance can inform design? INTACH Heritage department, Lodhi estate, Delhi. 2016
 - Gestures and Mudras: Drawing Observation. Nehru Centre, London. 2016
