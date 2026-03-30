@@ -2,7 +2,7 @@
 
 # Artist Statement
 
-Sarah Lawton (1982) is a British artist, born in Lancashire. Since training in India (2011-2012) she has made several research trips to Darpana Academy of Performing Arts, Gujarat and despite now being based in London she continues to practice embodied drawing and egg tempera painting. By observing the way in which dynamics are built, and challenges sometimes emerge, her artwork meditates on the indelibility of human nature.
+Sarah Lawton (1982) is a British artist, born in Lancashire. Since training in India (2012-2013) she has made several research trips to Darpana Academy of Performing Arts, Gujarat and despite now being based in London she continues to practice embodied drawing and egg tempera painting. By observing the way in which dynamics are built, and challenges sometimes emerge, her artwork meditates on the indelibility of human nature.
 
 Sarah’s work explores routes of integration between self-expression and human shadow aspects. She paints on a large-scale to create patterns derived from reportage drawings made from observation of the body in movement. Lawton is interested in coexistence and interdependence between people and their environment. Her paintings on paper are for conversations that may be difficult to broach and for voices often too quiet to hear. The artworks are informed by 'Yantra philosophy' and the dynamics of cosmic unity.
 
