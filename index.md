@@ -2,10 +2,11 @@
 
 # Artist Statement
 
-Sarah Lawton (1982) is a British artist, born in Lancashire. Since training in India (2012-2013) she has made several research trips to Darpana Academy of Performing Arts, Gujarat and despite now being based in London she continues to practice embodied drawing and egg tempera painting. By observing the way in which dynamics are built, and challenges sometimes emerge, her artwork meditates on the indelibility of human nature.
-
-Sarah’s work explores routes of integration between self-expression and human shadow aspects. She paints on a large-scale to create patterns derived from reportage drawings made from observation of the body in movement. Lawton is interested in coexistence and interdependence between people and their environment. Her paintings on paper are for conversations that may be difficult to broach and for voices often too quiet to hear. The artworks are informed by 'Yantra philosophy' and the dynamics of cosmic unity.
-
-Sarah’s work has been presented at China Academy of Art, Hangzhou, Kensington New Town Hall (Civic Gallery), London and Darpana Academy of Art, Ahmedabad; as part of the Vikram Sarabhai International Arts Festival. Her work is held in public and private collections. Sarah’s current drawings and paintings explore salutogenic practices. She sources natural forms and those traditionally used as medicinal remedies, locally - close to where she lives and works in South West London. 
+Sarah Lawton (b. 1982) is a British artist from Lancashire. Following training in India (2012–2013), she has undertaken several research trips to Darpana Academy of Performing Arts. Now based in London, she continues to develop her practice in embodied drawing and egg tempera painting.
+Through close observation of the body in motion, Lawton examines how dynamics are formed and where tensions or challenges arise. Her work meditates on the enduring nature of human behaviour, exploring the integration between self-expression and the shadow aspects of the psyche.
+Working at a large scale, she creates intricate patterns derived from reportage drawings made through direct observation of movement. Lawton’s practice reflects a deep interest in coexistence and interdependence between individuals and their environments. Her works on paper aim to open space for conversations that are often difficult to broach, giving form to voices that are frequently unheard.
+Informed by Yantra philosophy, her work engages with ideas of cosmic unity, interconnected systems and human connection. 
+Lawton has exhibited internationally, including at the China Academy of Art, Kensington New Town Hall (Civic Gallery) in London, and at Darpana Academy of Performing Arts as part of the Vikram Sarabhai International Arts Festival. Her work is held in both public and private collections.
+Her current drawings and paintings explore healing practices, drawing on natural forms and traditionally used medicinal plants sourced locally in South West London, where she lives and works. 
 
 [@bodysiteknowledge](https://www.instagram.com/bodysiteknowledge)
