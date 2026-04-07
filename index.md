@@ -8,6 +8,8 @@ Through close observation of the body in motion, Lawton examines how dynamics ar
 
 Working at a large scale, she creates intricate patterns derived from reportage drawings made through direct observation of movement. Lawton’s practice reflects a deep interest in coexistence and interdependence between individuals and their environments. Her works on paper aim to open space for conversations that are often difficult to broach, giving form to voices that are frequently unheard.
 Informed by Yantra philosophy, her work engages with ideas of cosmic unity, interconnected systems and human connection. 
+
+
 Lawton has exhibited locally, nationally and internationally, including at the China Academy of Art, Kensington New Town Hall (Civic Gallery) in London, and at Darpana Academy of Performing Arts as part of the Vikram Sarabhai International Arts Festival. Her work is held in both public and private collections.
 Her current drawings and paintings explore healing practices, drawing on natural forms and traditionally used medicinal plants sourced locally in South West London, where she lives and works. 
 
