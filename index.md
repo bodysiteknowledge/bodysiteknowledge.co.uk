@@ -18,6 +18,6 @@ Her current drawings and paintings explore healing practices, drawing on natural
 
 
 
-*This site and its content are protected by intellectual property rights, including copyright and trade marks. Except as expressly authorised by us or relevant third parties, you agree not to copy, download, adapt, alter, modify, rent, lease, loan, sell, distribute or create derivative works of any content of the Site, in whole or in part.
+*This site and its content are protected by intellectual property rights, including copyright and trade marks. Except as expressly authorised by us or relevant third parties, you agree not to copy, download, adapt, alter, modify, rent, lease, loan, sell, distribute or create derivative works of any content of the site, in whole or in part.
 
 BodySiteKnowledge ® 2026 
