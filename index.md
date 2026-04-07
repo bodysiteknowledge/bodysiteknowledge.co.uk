@@ -10,7 +10,7 @@ Working at a large scale, she creates intricate patterns derived from reportage 
 Informed by Yantra philosophy, her work engages with ideas of cosmic unity, interconnected systems and human connection. 
 
 
-Lawton has exhibited locally, nationally and internationally, including at the China Academy of Art, Kensington New Town Hall (Civic Gallery) in London, and at Darpana Academy of Performing Arts as part of the Vikram Sarabhai International Arts Festival. Her work is held in both public and private collections.
+Lawton has exhibited locally, nationally and internationally, including at China Academy of Art, Kensington New Town Hall (Civic Gallery) in London, and at Darpana Academy of Performing Arts as part of the Vikram Sarabhai International Arts Festival. Her work is held in both public and private collections.
 Her current drawings and paintings explore healing practices, drawing on natural forms and traditionally used medicinal plants sourced locally in South West London, where she lives and works. 
 
 
