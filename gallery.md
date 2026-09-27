@@ -6,14 +6,14 @@ images:
   - slug: "women-in-conversation-II-sentient"
     title: "Women in Conversation II Sentient, egg tempera on Fabriano, 2021. 150 x 150 cm"
 
-  - slug: "interdependence-I-on-being"
-    title: "Interdependence I - On Being, egg tempera on Fabriano, 2020. 150 x 150 cm"
+  - slug: "interdepence-I-on-being"
+    title: "interdepence I - On Being, egg tempera on Fabriano, 2020. 150 x 150 cm"
 
-  - slug: "interdependence-II"
-    title: "Interdependence II, egg tempera on Fabriano, 2021. 150 x 150 cm"
+  - slug: "interdepence-II"
+    title: "interdepence II, egg tempera on Fabriano, 2021. 150 x 150 cm"
 
-  - slug: "its-a-process-interdependence-III"
-    title: "It‘s a Process Interdependence III, egg tempera on Fabriano, 2021. 150 x 150 cm"
+  - slug: "its-a-process-interdepence-III"
+    title: "It‘s a Process interdepence III, egg tempera on Fabriano, 2021. 150 x 150 cm"
 
   - slug: "focus-a-sense-of-coherence"
     title: "Focus a Sense of Coherence, egg tempera on Fabriano, 2022. 150 x 150 cm"
