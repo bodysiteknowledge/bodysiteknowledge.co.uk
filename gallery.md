@@ -9,7 +9,7 @@ images:
   - slug: "interdepence-I-on-being"
     title: "interdepence I - On Being, egg tempera on Fabriano, 2020. 150 x 150 cm"
 
-  - slug: "interdepence -II"
+  - slug: "interdepence-II"
     title: "interdepence II, egg tempera on Fabriano, 2021. 150 x 150 cm"
 
   - slug: "its-a-process-interdepence-III"
